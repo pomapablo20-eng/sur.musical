@@ -1,0 +1,33 @@
+# 🎵 SUR MUSICAL - Disco Móvil Profesional
+
+Página web profesional para SUR MUSICAL, servicio de disco móvil en Loja, Ecuador.
+
+## 📋 Descripción
+
+Aplicación web completa con frontend React, backend FastAPI y MongoDB.
+
+## ✨ Características
+
+- Página Principal con diseño vibrante
+
+- Formulario de contacto funcional
+
+- Panel de Administración en /admin
+
+- Base de datos MongoDB
+
+## 📞 Contacto
+
+- Tel: +593 99 763 6182, +593 99 876 8092
+
+- Email: pomapablo20@gmail.com
+
+- Ubicación: Loja, Ecuador
+
+## 🚀 Tecnologías
+
+- Frontend: React 19, Tailwind CSS, Shadcn UI
+
+- Backend: FastAPI, Motor, MongoDB
+
+- Diseño: Azul neón con animaciones
